@@ -1,2 +1,3 @@
 # 100daysofAzure
-Documenting Azure journey
+
+Documenting Azure journey from Administrator to Security Engineer to Solutions Architect to DevOps
