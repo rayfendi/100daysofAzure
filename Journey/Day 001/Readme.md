@@ -6,7 +6,7 @@ I'm currently performing a tenant audit for an organization. I will be using Win
 
 ## Prerequisite
 
-An Azure subscription and enough administrator permissions to deploy resource groups, virtual networks, and virtual machines.
+An Azure Premium P1 license and administrator permissions to create users and groups, manage devices and updates, and configure sspr.
 
 ## Instructions
 
@@ -14,4 +14,11 @@ Navigate to [https://aad.portal.azure.com](https://aad.portal.azure.com) and log
 
 In the **Identity** section of the wizard, fill out the following information for new user:
 
-- 
+- Enter the user name for the verified domain
+- Enter the name of the user
+
+In the **Password** section of the wizard, fill out the following information for new user:
+
+- Create the password or auto-generate password to share with user
+
+Skip down to the bottom of the page and select **Create**.
