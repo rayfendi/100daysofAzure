@@ -10,7 +10,7 @@ An Azure Premium P1 license and administrator permissions to create users and gr
 
 ## Instructions
 
-Navigate to [https://aad.portal.azure.com](https://aad.portal.azure.com) and log in with your administrator account. On the portal homepage, click **Azure Active Directory**, select **Users**, then select **New user** for user accounts in your organization or **Invite user** for guest accounts for non-employees.
+Navigate to [https://aad.portal.azure.com](https://aad.portal.azure.com) and log in with your administrator account. On the portal homepage, click **Azure Active Directory**, select **Users**, then select **New user** for user accounts in your organization.
 
 In the **Identity** section of the wizard, fill out the following information for new user:
 
@@ -22,3 +22,13 @@ In the **Password** section of the wizard, fill out the following information fo
 - Create the password or auto-generate password to share with user
 
 Skip down to the bottom of the page and select **Create**.
+
+Navigate to [https://aad.portal.azure.com](https://aad.portal.azure.com) and log in with your administrator account. On the portal homepage, click **Azure Active Directory**, select **Users**, then select **Invite user** for guest accounts for non-employees.
+
+In the **Identity** section of the wizard, fill out the following information for guest user:
+
+- Enter the email address
+
+Skip down to the bottom of the page and select **Create**.
+
+
