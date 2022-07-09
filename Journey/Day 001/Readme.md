@@ -23,8 +23,8 @@ In the **Password** section of the wizard, fill out the following information fo
 
 Skip down to the bottom of the page and select **Create**.
 
-Overview of user account creattion:<br/>
-![Basic User account settings](./img/Create an user account in Azure AD.png)
+Overview of user account creation:<br/>
+![Basic User account settings](Create an user account in Azure AD.png)
 
 Navigate to [https://aad.portal.azure.com](https://aad.portal.azure.com) and log in with your administrator account. On the portal homepage, click **Azure Active Directory**, select **Users**, then select **Invite user** for guest accounts for non-employees.
 
