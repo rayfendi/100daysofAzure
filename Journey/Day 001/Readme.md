@@ -88,7 +88,7 @@ Managing devices in Azure AD such enabling and disabling devices. Configuring SS
 
 ## Social Proof
 
-[Twitter](https://twitter.com/JeffWBrown/status/1298105256341934082?s=20)
+[Twitter](https://twitter.com/HumbleLivin/status/1545944183336275968)
 [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6951707240072454144/)
 
 
