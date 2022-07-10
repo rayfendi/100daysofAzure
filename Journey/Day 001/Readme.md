@@ -67,7 +67,7 @@ Skip down to the bottom of the page and select **Create**
 
 Overview of Assigned group creation:<br/>
 ![Basic Dynamic group account settings](./img/Create-an-dynamic-group-in-Azure-AD.PNG)
-![Basic Dynamic membership rules](./img/Create-an-assigned-group-in-Azure-AD.PNG)
+![Basic Dynamic membership rules](./img/dynamic-membership-rule.PNG)
 
 
 
