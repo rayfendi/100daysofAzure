@@ -71,7 +71,16 @@ Overview of Assigned group creation:<br/>
 
 **Perform Bulk User Updates**
 
+Navigate to [https://aad.portal.azure.com](https://aad.portal.azure.com) and log in with your administrator account. On the portal homepage, click **Azure Active Directory**, select **Users**, then select **New Bulk operation** for user accounts which includes: create, invite, delete, and download.
 
+- For this example we will be selecting **Bulk create**
+- Download the csv template
+- Edit your csv file
+- Upload your csv file
+- Select submit
+
+Overview of Bulk user creation:<br/>
+![Basic bulk operation settings](./img/Create-an-assigned-group-in-Azure-AD.PNG)
 
 
 
