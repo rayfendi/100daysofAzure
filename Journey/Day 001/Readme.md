@@ -10,6 +10,8 @@ An Azure Premium P1 license and administrator permissions to create users and gr
 
 ## Instructions
 
+**Creating Azure AD Users**
+
 Navigate to [https://aad.portal.azure.com](https://aad.portal.azure.com) and log in with your administrator account. On the portal homepage, click **Azure Active Directory**, select **Users**, then select **New user** for user accounts in your organization.
 
 In the **Identity** section of the wizard, fill out the following information for new user:
@@ -36,6 +38,27 @@ Skip down to the bottom of the page and select **Create**.
 
 Overview of guest account creation:<br/>
 ![Basic Guest User account settings](./img/Create-an-guest-account-in-Azure-AD.PNG)
+
+**Creating Azure AD Groups** to
+
+Navigate to [https://aad.portal.azure.com](https://aad.portal.azure.com) and log in with your administrator account. On the portal homepage, click **Azure Active Directory**, select **Groups**, then select **New group** for organizing users at your organization to an **assigned group**.
+
+In the **Group settings** section of the wizard, fill out the following information for new group:
+
+- Enter the group type (**Microsoft 365** or **Security**)
+- Enter the name of the group
+- Enter the membership type of the group (**Assigned**)
+
+Skip down to the bottom of the page and select **Create**.
+
+Overview of Assigned group creation:<br/>
+![Basic Assigned group account settings](./img/Create-an-user-account-in-Azure-AD.png)
+
+
+
+
+
+
 
 
 
