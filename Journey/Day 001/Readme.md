@@ -52,7 +52,7 @@ In the **Group settings** section of the wizard, fill out the following informat
 Skip down to the bottom of the page and select **Create**.
 
 Overview of Assigned group creation:<br/>
-![Basic Assigned group account settings](./img/Create-an-user-account-in-Azure-AD.png)
+![Basic Assigned group account settings](./img/Create-an-assigned-group-in-Azure-AD.PNG)
 
 
 
