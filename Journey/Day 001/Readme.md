@@ -35,7 +35,7 @@ In the **Identity** section of the wizard, fill out the following information fo
 Skip down to the bottom of the page and select **Create**.
 
 Overview of guest account creation:<br/>
-![Basic Guest User account settings](./img/Create-an-guest-account-in-Azure-AD.png)
+![Basic Guest User account settings](./img/Create-an-guest-account-in-Azure-AD.PNG)
 
 
 
