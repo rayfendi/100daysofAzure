@@ -69,6 +69,9 @@ Overview of Assigned group creation:<br/>
 ![Basic Dynamic group account settings](./img/Create-an-dynamic-group-in-Azure-AD.PNG)
 ![Basic Dynamic membership rules](./img/dynamic-membership-rule.PNG)
 
+**Perform Bulk User Updates**
+
+
 
 
 
