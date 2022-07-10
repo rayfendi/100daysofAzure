@@ -82,6 +82,15 @@ Navigate to [https://aad.portal.azure.com](https://aad.portal.azure.com) and log
 Overview of Bulk user creation:<br/>
 ![Basic bulk operation settings](./img/Bulk-user-create.PNG)
 
+## Next Steps
+
+Managing devices in Azure AD such enabling and disabling devices. Configuring SSPR for user accounts. Next time I'll write a script to perform these tasks to speed up the process.
+
+## Social Proof
+
+[Twitter](https://twitter.com/JeffWBrown/status/1298105256341934082?s=20)
+[LinkedIn](https://www.linkedin.com/posts/jeffwaynebrown_jeffbrowntech100daysofcloud-activity-6703871248100925440-xtcn)
+
 
 
 
