@@ -80,7 +80,7 @@ Navigate to [https://aad.portal.azure.com](https://aad.portal.azure.com) and log
 - Select submit
 
 Overview of Bulk user creation:<br/>
-![Basic bulk operation settings](./img/Create-an-assigned-group-in-Azure-AD.PNG)
+![Basic bulk operation settings](./img/Bulk user create.PNG)
 
 
 
